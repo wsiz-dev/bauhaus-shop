@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BauhausShop.Api", "Api\BauhausShop.Api\BauhausShop.Api.csproj", "{C7B806D9-3CEA-411C-8D4E-5F77667D1723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B806D9-3CEA-411C-8D4E-5F77667D1723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B806D9-3CEA-411C-8D4E-5F77667D1723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B806D9-3CEA-411C-8D4E-5F77667D1723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B806D9-3CEA-411C-8D4E-5F77667D1723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
